@@ -1,4 +1,4 @@
-// File: E:\Envato\Web Templates\personal-portfolio-resume-nextjs-template-2024-02-23-13-11-08-utc\Main_Files\gavi_nextjs\src\app\page.js
+// File: E:\portfolio\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

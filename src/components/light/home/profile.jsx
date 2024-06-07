@@ -19,7 +19,7 @@ function Profile() {
               <div>
                 <div className="butn-presv">
                   <a href="/assets/docs/Resume_Muhammad-Alfath-Aditya.pdf" className="butn butn-md butn-bord radius-5 skew">
-                    <span>Resume Print</span>
+                    <span>Download CV</span>
                   </a>
                 </div>
               </div>
